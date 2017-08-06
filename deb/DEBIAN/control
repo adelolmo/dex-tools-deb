@@ -1,0 +1,9 @@
+Package: dex-tools
+Version: {{version}}
+Section: extras
+Priority: standard
+Architecture: all
+Recommends: oracle-java8-installer
+Maintainer: Andoni del Olmo <andoni.delolmo@gmail.com>
+Installed-Size: {{size}}
+Description: Tools to work with android .dex and java .class files v2.0
