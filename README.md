@@ -1,2 +1,4 @@
 # dex-tools-deb
-Tools to work with android .dex and java .class files
+Debian/Ubuntu convenient package for dex-tools.
+
+Tools to work with android .dex and java .class files.
